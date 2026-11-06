@@ -2,19 +2,54 @@
   "digests": [
     {
       "chaininformation": {
-        "chaintimestamp": 0,
+        "chaintimestamp": 1793977359,
         "merklepath": {
-          "Flags": null,
-          "Hashes": null,
-          "NumLeaves": 0
+          "Flags": "AQ==",
+          "Hashes": [
+            [
+              244,
+              37,
+              89,
+              99,
+              195,
+              139,
+              24,
+              25,
+              178,
+              206,
+              39,
+              188,
+              81,
+              7,
+              217,
+              186,
+              223,
+              178,
+              71,
+              32,
+              88,
+              157,
+              107,
+              93,
+              110,
+              192,
+              161,
+              17,
+              251,
+              27,
+              62,
+              168
+            ]
+          ],
+          "NumLeaves": 1
         },
-        "merkleroot": "0000000000000000000000000000000000000000000000000000000000000000",
-        "transaction": "0000000000000000000000000000000000000000000000000000000000000000"
+        "merkleroot": "f4255963c38b1819b2ce27bc5107d9badfb24720589d6b5d6ec0a111fb1b3ea8",
+        "transaction": "0630ac8185eb3fd9d8b4ce57273ad66b5988e6c01de0e688750154ba48715356"
       },
       "digest": "f4255963c38b1819b2ce27bc5107d9badfb24720589d6b5d6ec0a111fb1b3ea8",
-      "flushtimestamp": 0,
+      "flushtimestamp": 1793977210,
       "result": 1,
-      "servertimestamp": 0
+      "servertimestamp": 1793973600
     }
   ],
   "id": "recompound-track-record",
