@@ -1,0 +1,22 @@
+{
+  "digests": [
+    {
+      "chaininformation": {
+        "chaintimestamp": 0,
+        "merklepath": {
+          "Flags": null,
+          "Hashes": null,
+          "NumLeaves": 0
+        },
+        "merkleroot": "0000000000000000000000000000000000000000000000000000000000000000",
+        "transaction": "0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "digest": "23e511fc04e211c8149c7d31bc11d5513b6449fc97ac8dfb531889b4aebe40e4",
+      "flushtimestamp": 0,
+      "result": 1,
+      "servertimestamp": 0
+    }
+  ],
+  "id": "recompound-track-record",
+  "timestamps": []
+}
